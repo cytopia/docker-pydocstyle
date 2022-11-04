@@ -26,7 +26,7 @@
 > [phplint][plint-git-lnk] **•**
 > [php-cs-fixer][pcsf-git-lnk] **•**
 > [pycodestyle][pycs-git-lnk] **•**
-> [pydocstyle][pycs-git-lnk] **•**
+> [pydocstyle][pyds-git-lnk] **•**
 > [pylint][pylint-git-lnk] **•**
 > [terraform-docs][tfdocs-git-lnk] **•**
 > [terragrunt][tg-git-lnk] **•**
